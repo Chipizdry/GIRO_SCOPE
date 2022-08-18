@@ -671,7 +671,7 @@ DocumentUniqueId=YIFTRVZG
 
 [Document38]
 DocumentPath=levit_0.1 .SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
