@@ -347,8 +347,13 @@ GenerateClassCluster=0
 DocumentUniqueId=SDWYSYMW
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document19]
 DocumentPath=Test_Point.PcbLib
+=======
+[Document18]
+DocumentPath=1N4148W-S\Diode_Diodes_Inc._1N4148WSF-7_eec_MFG.PcbLib
+>>>>>>> Stashed changes
 =======
 [Document18]
 DocumentPath=1N4148W-S\Diode_Diodes_Inc._1N4148WSF-7_eec_MFG.PcbLib
@@ -369,8 +374,13 @@ GenerateClassCluster=0
 DocumentUniqueId=AJXUSPLS
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document20]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_MFG.PcbLib
+=======
+[Document19]
+DocumentPath=Test_Point.PcbLib
+>>>>>>> Stashed changes
 =======
 [Document19]
 DocumentPath=Test_Point.PcbLib
@@ -391,8 +401,13 @@ GenerateClassCluster=0
 DocumentUniqueId=DHEDDXTT
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document21]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_A.PcbLib
+=======
+[Document20]
+DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_MFG.PcbLib
+>>>>>>> Stashed changes
 =======
 [Document20]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec_MFG.PcbLib
@@ -413,8 +428,13 @@ GenerateClassCluster=0
 DocumentUniqueId=TJJFNTER
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document22]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_C.PcbLib
+=======
+[Document21]
+DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_A.PcbLib
+>>>>>>> Stashed changes
 =======
 [Document21]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_A.PcbLib
@@ -435,8 +455,13 @@ GenerateClassCluster=0
 DocumentUniqueId=GKGMGULD
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document23]
 DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec_0.PcbLib
+=======
+[Document22]
+DocumentPath=1N4148W-S\Diode_Diodes_Inc._1N4148WSF-7_eec.SchLib
+>>>>>>> Stashed changes
 =======
 [Document22]
 DocumentPath=1N4148W-S\Diode_Diodes_Inc._1N4148WSF-7_eec.SchLib
@@ -457,8 +482,13 @@ GenerateClassCluster=0
 DocumentUniqueId=MSCQRVHI
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document24]
 DocumentPath=Jumper_2.54.PcbLib
+=======
+[Document23]
+DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_C.PcbLib
+>>>>>>> Stashed changes
 =======
 [Document23]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec_IPC_C.PcbLib
@@ -479,8 +509,13 @@ GenerateClassCluster=0
 DocumentUniqueId=MVBRAYEB
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document25]
 DocumentPath=CAP 1800uF_63V\2022-08-15_12-58-19\ECA-1JHG222.SchLib
+=======
+[Document24]
+DocumentPath=..\..\..\Downloads\Библиотеки Altium\Diode_Vishay_SS16-E3_61T\parts\Diode_Vishay_SS16-E3-61T_eec_0.PcbLib
+>>>>>>> Stashed changes
 =======
 [Document24]
 DocumentPath=..\..\..\Downloads\Библиотеки Altium\Diode_Vishay_SS16-E3_61T\parts\Diode_Vishay_SS16-E3-61T_eec_0.PcbLib
@@ -501,8 +536,13 @@ GenerateClassCluster=0
 DocumentUniqueId=JFCATUPP
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document26]
 DocumentPath=Infineon-PCB Footprints and Symbols - IRFR9024N - 20V-250V P-Channel Power MOSFET - Altium-PCBDesignData-v01_00-EN\IRFR9024N.SchLib
+=======
+[Document25]
+DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec_0.PcbLib
+>>>>>>> Stashed changes
 =======
 [Document25]
 DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec_0.PcbLib
@@ -523,8 +563,13 @@ GenerateClassCluster=0
 DocumentUniqueId=UNIHHKLE
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document27]
 DocumentPath=..\..\..\Downloads\Библиотеки Altium\Trans_Infineon Technologies_IRLR2905TRPBF\parts\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
+=======
+[Document26]
+DocumentPath=Jumper_2.54.PcbLib
+>>>>>>> Stashed changes
 =======
 [Document26]
 DocumentPath=Jumper_2.54.PcbLib
@@ -544,6 +589,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSKHJDJS
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [Document28]
 DocumentPath=ul_TUW5JR10E\AltiumDesigner\2022-08-05_09-57-54\TUW5JR10E.SchLib
@@ -568,6 +614,10 @@ DocumentPath=ul_1N5822RL\AltiumDesigner\2022-07-29_13-00-37\1N5822RL.SchLib
 [Document27]
 DocumentPath=CAP 1800uF_63V\2022-08-15_12-58-19\ECA-1JHG222.SchLib
 >>>>>>> Stashed changes
+=======
+[Document27]
+DocumentPath=CAP 1800uF_63V\2022-08-15_12-58-19\ECA-1JHG222.SchLib
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -584,8 +634,13 @@ GenerateClassCluster=0
 DocumentUniqueId=WMNOQQRQ
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document30]
 DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec.SchLib
+=======
+[Document28]
+DocumentPath=Infineon-PCB Footprints and Symbols - IRFR9024N - 20V-250V P-Channel Power MOSFET - Altium-PCBDesignData-v01_00-EN\IRFR9024N.SchLib
+>>>>>>> Stashed changes
 =======
 [Document28]
 DocumentPath=Infineon-PCB Footprints and Symbols - IRFR9024N - 20V-250V P-Channel Power MOSFET - Altium-PCBDesignData-v01_00-EN\IRFR9024N.SchLib
@@ -606,8 +661,13 @@ GenerateClassCluster=0
 DocumentUniqueId=JWSOWJIJ
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document31]
 DocumentPath=IRLR2905\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
+=======
+[Document29]
+DocumentPath=..\..\..\Downloads\Библиотеки Altium\Trans_Infineon Technologies_IRLR2905TRPBF\parts\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
+>>>>>>> Stashed changes
 =======
 [Document29]
 DocumentPath=..\..\..\Downloads\Библиотеки Altium\Trans_Infineon Technologies_IRLR2905TRPBF\parts\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
@@ -628,8 +688,13 @@ GenerateClassCluster=0
 DocumentUniqueId=HRTGEUMW
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document32]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec.SchLib
+=======
+[Document30]
+DocumentPath=ul_1N5822RL\AltiumDesigner\2022-07-29_13-00-37\1N5822RL.SchLib
+>>>>>>> Stashed changes
 =======
 [Document30]
 DocumentPath=ul_1N5822RL\AltiumDesigner\2022-07-29_13-00-37\1N5822RL.SchLib
@@ -650,8 +715,13 @@ GenerateClassCluster=0
 DocumentUniqueId=BHUGGUSZ
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document33]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec.SchLib
+=======
+[Document31]
+DocumentPath=Shotki SS16\Diode_Vishay_SS16-E3-61T_eec_0.PcbLib
+>>>>>>> Stashed changes
 =======
 [Document31]
 DocumentPath=Shotki SS16\Diode_Vishay_SS16-E3-61T_eec_0.PcbLib
@@ -672,8 +742,13 @@ GenerateClassCluster=0
 DocumentUniqueId=JFCATUPP
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document34]
 DocumentPath=LM324AD_SOIC14.SchLib
+=======
+[Document32]
+DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec.SchLib
+>>>>>>> Stashed changes
 =======
 [Document32]
 DocumentPath=TL431\IC_Nexperia_TL431AQDBZR,215_eec.SchLib
@@ -694,8 +769,13 @@ GenerateClassCluster=0
 DocumentUniqueId=JYDHOEHL
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document35]
 DocumentPath=Res_Bourns_3296W-1-202LF_eec.SchLib
+=======
+[Document33]
+DocumentPath=Shotki SS16\Diode_Vishay_SS16-E3-61T_eec.SchLib
+>>>>>>> Stashed changes
 =======
 [Document33]
 DocumentPath=Shotki SS16\Diode_Vishay_SS16-E3-61T_eec.SchLib
@@ -716,8 +796,13 @@ GenerateClassCluster=0
 DocumentUniqueId=XKKYUQXJ
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document36]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec.SchLib
+=======
+[Document34]
+DocumentPath=IRLR2905\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
+>>>>>>> Stashed changes
 =======
 [Document34]
 DocumentPath=IRLR2905\Trans_Infineon_Technologies_IRLR2905TRPBF_eec.SchLib
@@ -738,8 +823,13 @@ GenerateClassCluster=0
 DocumentUniqueId=HRTGEUMW
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document37]
 DocumentPath=Test_Point.SchLib
+=======
+[Document35]
+DocumentPath=..\..\..\Downloads\Библиотеки Altium\Diode_Vishay_SS16-E3_61T\parts\Diode_Vishay_SS16-E3-61T_eec.SchLib
+>>>>>>> Stashed changes
 =======
 [Document35]
 DocumentPath=..\..\..\Downloads\Библиотеки Altium\Diode_Vishay_SS16-E3_61T\parts\Diode_Vishay_SS16-E3-61T_eec.SchLib
@@ -760,8 +850,13 @@ GenerateClassCluster=0
 DocumentUniqueId=XKKYUQXJ
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document38]
 DocumentPath=Cap_KEMET_C0805C224K5RACTU\parts\Cap_KEMET_C0805C224K5RACTU_eec.SchLib
+=======
+[Document36]
+DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec.SchLib
+>>>>>>> Stashed changes
 =======
 [Document36]
 DocumentPath=LED\Diode_Wurth_Electronics_150080SS75000_eec.SchLib
@@ -782,8 +877,13 @@ GenerateClassCluster=0
 DocumentUniqueId=XCPGYQKH
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document39]
 DocumentPath=Jumper_1x2.54.SchLib
+=======
+[Document37]
+DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec.SchLib
+>>>>>>> Stashed changes
 =======
 [Document37]
 DocumentPath=Diode_Vishay_1N4148W-HE3-08\Diode_Vishay_1N4148W-HE3-08_eec.SchLib
@@ -804,8 +904,13 @@ GenerateClassCluster=0
 DocumentUniqueId=HPVHRZES
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document40]
 DocumentPath=levit_0.1 .SchDoc
+=======
+[Document38]
+DocumentPath=LM324AD_SOIC14.SchLib
+>>>>>>> Stashed changes
 =======
 [Document38]
 DocumentPath=LM324AD_SOIC14.SchLib
@@ -826,8 +931,13 @@ GenerateClassCluster=0
 DocumentUniqueId=LYWXECQK
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document41]
 DocumentPath=GiroScope.PcbDoc
+=======
+[Document39]
+DocumentPath=Res_Bourns_3296W-1-202LF_eec.SchLib
+>>>>>>> Stashed changes
 =======
 [Document39]
 DocumentPath=Res_Bourns_3296W-1-202LF_eec.SchLib
@@ -848,8 +958,13 @@ GenerateClassCluster=0
 DocumentUniqueId=GSUIDNLX
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [Document42]
 DocumentPath=GiroScopeTest.Annotation
+=======
+[Document40]
+DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec.SchLib
+>>>>>>> Stashed changes
 =======
 [Document40]
 DocumentPath=Res_Vishay_CRCW08050000Z0EA\Res_Vishay_CRCW08050000Z0EA_eec.SchLib
@@ -960,6 +1075,9 @@ DocumentUniqueId=IBLEBQTI
 
 [Document46]
 DocumentPath=GiroScopeTest.Annotation
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
