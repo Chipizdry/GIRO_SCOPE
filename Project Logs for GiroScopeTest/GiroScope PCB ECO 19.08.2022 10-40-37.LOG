@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=Q3 Old Footprint=On_Semiconductor_369C_MFG New Footprint=Infineon_Technologies_PG-TO252-3_MFG
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Change Component Designator: OldDesignator=TP? NewDesignator=TP54
+Added Component: Designator=Q8(Infineon_Technologies_PG-TO252-3_MFG)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "IRFR9024N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TO252-3-901"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD8_2 Pin=Q8-1
+Added Pin To Net: NetName=NetJ2_1 Pin=Q8-4
+Added Pin To Net: NetName=NetQ8_3 Pin=Q8-3
+Added Pin To Net: NetName=NetQ8_3 Pin=R95-2
+Added Pin To Net: NetName=NetQ8_3 Pin=R96-2
+Added Net: Name=NetQ8_3
+Added Member To Class: ClassName=levit_0.1  Member=Component Q8 IRFR9024N

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=D8 Old Footprint=Vishay_S8-V-3910_01-001_IPC_A New Footprint=Vishay_SS16-E3-61T_0
+Change Class Name : Old Net Name=levit_0.1 New Net Name=levit_0.1 
+Added Member To Class: ClassName=levit_0.1  Member=Component CR2 1N5822RL
+Change Room Name: Old Name=levit_0.1 New Name=levit_0.1 

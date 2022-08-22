@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC Pin=D1-2
+Removed Pin From Net: NetName=VCC Pin=J4-1
+Removed Pin From Net: NetName=NetD16_2 Pin=Q1-1
+Removed Pin From Net: NetName=NetD16_1 Pin=Q1-3
+Change Component Footprint: Designator=Q1 Old Footprint=On_Semiconductor_369C_MFG New Footprint=Infineon_Technologies_PG-TO252-3_MFG
+Added Component: Designator=Q7(Infineon_Technologies_PG-TO252-3_MFG)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Order Number"; Value = "IRFR9024N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TO252-3-901"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q7-4
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=levit_0.1  Member=Component Q7 IRFR9024N
