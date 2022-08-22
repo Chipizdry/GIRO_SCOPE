@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VCC Pin=D6-2
+Removed Pin From Net: NetName=VCC Pin=J2-1
+Removed Pin From Net: NetName=NetD8_2 Pin=Q3-1
+Removed Pin From Net: NetName=NetR35_2 Pin=U1-9
+Added Component: Designator=R?(Vishay_CRCW0805-e3_IPC_A)
+Add component (AddParameter): Name = "10k"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP?(Test_Point)
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=VCC Pin=Q3-4
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=Q3-3
+Added Pin To Net: NetName=NetJ2_1 Pin=TP?-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=J4-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetQ?_3 Pin=R95-2
+Added Pin To Net: NetName=NetQ?_3 Pin=R96-2
+Added Net: Name=NetQ?_3
+Added Member To Class: ClassName=levit_0.1  Member=Component R? 50k
+Added Member To Class: ClassName=levit_0.1  Member=Component TP? Test_Point_PCB
