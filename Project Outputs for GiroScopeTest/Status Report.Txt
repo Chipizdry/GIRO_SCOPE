@@ -1,26 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [GiroScopeTest.PrjPcb]
-   Generated File[GiroScope.GTO]
-   Generated File[GiroScope.GTP]
-   Generated File[GiroScope.GTS]
-   Generated File[GiroScope.GTL]
-   Generated File[GiroScope.GBL]
-   Generated File[GiroScope.GBS]
-   Generated File[GiroScope.GBP]
-   Generated File[GiroScope.GBO]
-   Generated File[GiroScope.GM1]
-   Generated File[GiroScope.GKO]
-   Generated File[GiroScope.GPT]
-   Generated File[GiroScope.GPB]
-   Generated File[GiroScope.GD1]
-   Generated File[GiroScope.GG1]
-   Generated File[GiroScope.RUL]
-   Generated File[GiroScope.EXTREP]
-   Generated File[GiroScope.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GiroScopeTest.PrjPcb]
+   Generated File[GiroScope.TXT]
+   Generated File[GiroScope.DRL]
+   Generated File[GiroScope.LDP]
+   Generated File[GiroScope.DRR]
 
 
-Files Generated   : 17
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 21:25:46 On 17.08.2022
+Finished Output Generation At 13:43:39 On 23.08.2022
