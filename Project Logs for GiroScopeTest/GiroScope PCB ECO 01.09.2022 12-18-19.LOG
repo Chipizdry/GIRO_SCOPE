@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Net*1_6 Pin=*1-6
+Removed Pin From Net: NetName=Net*1_7 Pin=*1-7
+Removed Pin From Net: NetName=Net*_5 Pin=*-5
+Removed Pin From Net: NetName=Net*_6 Pin=*-6
+Removed Pin From Net: NetName=Net*_7 Pin=*-7
+Added Component: Designator=*(D14-M)
+Added Pin To Net: NetName=Net*1_6 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*1_7 Pin=*-7
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Change Net Name : Old Net Name=Net*1_6 New Net Name=Net*_5
+Change Net Name : Old Net Name=Net*1_7 New Net Name=Net*_7
+Added Member To Class: ClassName=levit_0.1  Member=Component * LM324AD_SOIC14

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Net*1_6 Pin=*1-6
+Added Pin To Net: NetName=Net*1_6 Pin=*1-5
+Change Net Name : Old Net Name=Net*1_6 New Net Name=Net*1_5
+Added Pin To Net: NetName=Net*1_6 Pin=*1-6
+Added Pin To Net: NetName=Net*1_6 Pin=R30-1
+Added Pin To Net: NetName=Net*1_6 Pin=R31-2
+Added Net: Name=Net*1_6
+Change Class Name : Old Net Name=levit_0.1 New Net Name=levit_0.1 
+Change Room Name: Old Name=levit_0.1 New Name=levit_0.1 

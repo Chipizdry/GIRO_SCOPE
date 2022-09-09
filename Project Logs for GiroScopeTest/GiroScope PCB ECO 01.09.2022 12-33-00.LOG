@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Net*2_6 Pin=*2-6
+Added Pin To Net: NetName=Net*2_6 Pin=*2-5
+Change Net Name : Old Net Name=Net*2_6 New Net Name=Net*2_5
+Added Pin To Net: NetName=Net*2_6 Pin=*2-6
+Added Pin To Net: NetName=Net*2_6 Pin=R57-1
+Added Pin To Net: NetName=Net*2_6 Pin=R58-2
+Added Net: Name=Net*2_6
